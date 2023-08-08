@@ -440,7 +440,7 @@ section {
         width: 236px;
         height: 54px;
         margin-left: 30px;
-        margin-top: auto;
+        margin-top: auto; /*BURAYI DEĞİŞTİRDİM*/
         font-weight: 400;
     }
 
@@ -554,14 +554,14 @@ section {
         margin: auto;
         width: 100% !important;
         overflow-x: scroll;
-        height: calc(100svh - 190px); /*BURAYI DEĞİŞTİRDİM*/
+        height: auto; /*BURAYI DEĞİŞTİRDİM*/
     }
 
     .tab-pane .categories-card-cumhurbaş {
         margin: auto;
         width: 100% !important;
         overflow-x: scroll;
-        height: calc(100svh - 190px); /*BURAYI DEĞİŞTİRDİM*/
+        height: auto; /*BURAYI DEĞİŞTİRDİM*/
     }
 
 
