@@ -554,14 +554,14 @@ section {
         margin: auto;
         width: 100% !important;
         overflow-x: scroll;
-        height: auto; /*BURAYI DEĞİŞTİRDİM*/
+        height: 40vh; /*BURAYI DEĞİŞTİRDİM*/
     }
 
     .tab-pane .categories-card-cumhurbaş {
         margin: auto;
         width: 100% !important;
         overflow-x: scroll;
-        height: auto; /*BURAYI DEĞİŞTİRDİM*/
+        height: 40vh; /*BURAYI DEĞİŞTİRDİM*/
     }
 
 
